@@ -15,3 +15,6 @@
 
 ・HTML
 [MyWebsiteProject](https://github.com/Kyoko-Kono/MyWebsiteProject)
+
+### 学習状況
+[dotinstall](https://dotinstall.com/users/konok)
