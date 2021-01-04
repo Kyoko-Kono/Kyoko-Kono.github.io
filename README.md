@@ -1,5 +1,6 @@
 ## 発表
 ### 技術書
+2021/1/5 [図解まるわかり セキュリティのしくみ](https://docs.google.com/presentation/d/1D6TQbOAQcDNmtW8gtXP7y1ppoi5Tkkeq2rdYl8u71q4/edit?usp=sharing)
 2020/12/15 [基礎からのIT担当者リテラシー](https://docs.google.com/presentation/d/1SmacBYbcoIw9rQQsWN0RQShoVk3jqEiGyAXpjuIHRLw/edit?usp=sharing)
 
 ### 言語
