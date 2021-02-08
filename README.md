@@ -1,4 +1,7 @@
 ## 発表
+### サービス
+2021/2/8 [内部不正対策](https://github.com/Kyoko-Kono/Kyoko-Kono.github.io/issues/1)
+
 ### 技術書
 2021/1/5 [図解まるわかり セキュリティのしくみ](https://docs.google.com/presentation/d/1D6TQbOAQcDNmtW8gtXP7y1ppoi5Tkkeq2rdYl8u71q4/edit?usp=sharing)
 
